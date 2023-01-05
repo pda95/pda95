@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Denis</h1>
 <h3 align="center">Research Associate in Nuclear Engineering</h3>
 
-- 🔭 I’m currently working in **Scientific and Engineering Center for Nuclear and Radiation Safety as a Scientific Researcher**
+- 🔭 I’m currently working for **Scientific and Engineering Center for Nuclear and Radiation Safety** as a **Research Associate**
 
-- 🌱 I’m currently learning **Machine Learning, Finance and C++ =)**
+- 📄 Know more about my experience [here](https://drive.google.com/file/d/1ZVqVA3BRwUsCwA89_5A-lAp6XrnlXUYa/view?usp=share_link)
 
-- 👯 I’m looking for opportunities in **IT and/or Finance (preferably Venture Capital/Portfolio Optimization/Quantitative Finance**
+- 🌱 I’m currently learning **Machine Learning, Finance** and **C++** =)
 
-- 👨‍💻 All of my projects are available at [https://github.com/pda95](https://github.com/pda95)
+- 👯 I’m looking for opportunities in **IT and/or Finance** (preferably **Venture Capital/Portfolio Optimization/Quantitative Finance**)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/pda95/](https://www.linkedin.com/in/pda95/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/pda95)
 
-- 💬 Ask me about **how nuclear reactors work**
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/pda95/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/pda95/**
+- 📫 How to reach me: https://www.linkedin.com/in/pda95/
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZVqVA3BRwUsCwA89_5A-lAp6XrnlXUYa/view?usp=share_link](https://drive.google.com/file/d/1ZVqVA3BRwUsCwA89_5A-lAp6XrnlXUYa/view?usp=share_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
