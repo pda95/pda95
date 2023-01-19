@@ -5,7 +5,7 @@
 
 - 📄 Know more about my experience [here](https://drive.google.com/file/d/1ZVqVA3BRwUsCwA89_5A-lAp6XrnlXUYa/view?usp=share_link)
 
-- 🌱 I’m currently learning **Machine Learning, Finance** and **C++** =)
+- 🌱 I’m currently learning **Machine Learning, Finance**, **Python** and **C++** =)
 
 - 👯 I’m looking for opportunities in **IT and/or Finance** (preferably **Venture Capital/Portfolio Optimization/Quantitative Finance**)
 
